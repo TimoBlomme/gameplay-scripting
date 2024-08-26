@@ -1,0 +1,9 @@
+﻿  Game.cpp
+C:\Users\blomm\OneDrive\Documenten\gameplay scripting\gameplay scripting\Game.cpp(270,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  gameplay scripting.vcxproj -> C:\Users\blomm\OneDrive\Documenten\gameplay scripting\x64\Debug\gameplay scripting.exe
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
